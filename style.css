@@ -1,0 +1,13 @@
+.product{
+    display: flex;
+}
+.product .image,
+.product .describe{
+    float: left;
+}
+.product .describe{
+    padding-left:20px;
+}
+.slideshow iframe{
+    margin-left: 15%;
+}
